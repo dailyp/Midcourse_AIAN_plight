@@ -5,7 +5,7 @@ This exercise explores the incidence of violent deaths among American Indian and
 Native (AIAN) women and girls compared to the rest of the female US population. While the 
 intent of the exercise was to also study the number of missing women and girls of this 
 population compared to the rest of the U.S. female population, the limited data from 
-government agencies by gender resulted in a review of missing persons among all genders, 
+government agencies by gender resulted in a review of missing persons amongst all genders, 
 rather than just female. 
 
 Savanna’s Act, signed into law in October of 2020, directs the DOJ to review, revise, and 
